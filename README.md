@@ -8,16 +8,16 @@ A complete end-to-end data analytics project that analyses employee attrition us
 
 ## 📌 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [Data Pipeline](#data-pipeline)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
-- [SQL Business Questions](#sql-business-questions)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [Key Findings](#key-findings)
-- [How to Run](#how-to-run)
+- [Project Overview](#-project-overview)
+- [Tech Stack](#️-tech-stack)
+- [Project Structure](#-project-structure)
+- [Dataset](#-dataset)
+- [Data Pipeline](#-data-pipeline)
+- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis)
+- [SQL Business Questions](#-sql-business-questions)
+- [Power BI Dashboard](#-power-bi-dashboard)
+- [Key Findings](#-key-findings)
+- [How to Run](#️-how-to-run)
 
 ---
 
