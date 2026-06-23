@@ -335,7 +335,6 @@ using Power BI Desktop.
 
 **Vivek Mali**
 
-Aspiring Data Analyst
 
 ### Skills
 
